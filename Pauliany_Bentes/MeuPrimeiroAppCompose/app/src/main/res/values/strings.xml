@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">MeuPrimeiroAppCompose</string>
+        <string name="titulo">Etanol X Gasolina</string>
+        <string name="gasolina_label">R$ Gasolina</string>
+        <string name="etanol_label">R$ Etanol</string>
+        <string name="vantagem_gasolina">Vantagem em abastecer com Gasolina: %s</string>
+        <string name="vantagem_etanol">Vantagem em abastecer com Etanol: %s</string>
+        <string name="usar_75_percent_label">Usar 75%</string>
+</resources>
